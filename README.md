@@ -5,7 +5,7 @@ Inventory and devdocz admin
 * [Things About Docz](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/about-docz/about-docz.mdx)
 * [Circle Back](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/circle-back/circle-back.mdx)
 * [Installing Mongo in Ubuntu](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/mongo-ubuntu/mongodb-ubuntu.mdx)
-* [Running docker instance of SQL Server](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/ms-sql-server-* docker/ms-sql-server-docker.mdx)
+* [Running docker instance of SQL Server](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/ms-sql-server-docker/ms-sql-server-docker.mdx)
 * [Installing SQL server on Ubuntu](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/ms-sql-server-ubuntu/ms-sql-server-ubuntu.mdx)
 * [Publish Package to NPM](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/publidh-npm/publish-npm.mdx)
 * [Scaffold a Docz App](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/scaffolding-docz-app/scaffolding-docz-app.mdx)
