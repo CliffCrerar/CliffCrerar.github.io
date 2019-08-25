@@ -1,3 +1,7 @@
+# Quick Links
+
+[Dev docs pages](https://github.com/CliffCrerar/dev-docz/tree/master/src/pages)
+
 # Web resource inventory
 
 ### Custom resource Index
