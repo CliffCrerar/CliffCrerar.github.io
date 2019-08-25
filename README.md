@@ -1,7 +1,11 @@
-# Cliff Crerar github poral page
+# Cliff Crerar github pages control
 
-### See my gitfolio
+### Github pages inventory list
 
-<div>this is a 
-  <iframe src="cdn-cloudflare.ga">
-</div>
+1. [Github code vault](https://cliffcrerar.github.io/gitfolio/) - see my git portfolio
+2. [My set of dev docs](http://http://devdocz.gq/)
+
+<div>
+  <code>this is a test</code>
+  <iframe srcdoc="https://cliff-crerar.tech" name="my portal" seamless>
+<div>
