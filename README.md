@@ -1,5 +1,7 @@
 Inventory and devdocz admin
 
+<div>Does html work?</div>
+
 ## Devdocz admin console
 * [Landing](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/_landing/index.mdx)
 * [Things About Docz](https://github.com/CliffCrerar/dev-docz/blob/master/src/pages/about-docz/about-docz.mdx)
