@@ -7,5 +7,5 @@
 
 <div>
   <code>this is a test</code>
-  <iframe srcdoc="https://cliff-crerar.tech" name="my portal" seamless>
+  <iframe src="https://cliff-crerar.tech" name="my portal" seamless="seamless">
 <div>
