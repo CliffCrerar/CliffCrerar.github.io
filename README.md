@@ -1,15 +1,14 @@
-# Cliff Crerar github pages control
+# Web resource inventory
 
-### Github pages inventory list
+### Custom resource Index
 
 1. [Github code vault](https://cliffcrerar.github.io/gitfolio/) - see my git portfolio
-2. [My set of dev docs](http://http://devdocz.gq/)
+2. [My set of dev docs](http://http://devdocz.gq/) - set of documents for saved resources and drafted items for future reference.
+3. [Peronal Portal]()
 
-<div>
-  <code>this is a test</code>
-  <iframe src="https://cliff-crerar.tech" name="my portal" seamless="seamless"></iframe>
-    
-  <iframe width="1000px" hieght="1000px" src="https://github.com/CliffCrerar/dev-docz/blob/master/src/menu/index.js"></iframe>
-  
-  
-<div>
+### Proprietary online subscriptions
+
+---
+Name: Facebook
+route: some route
+---
