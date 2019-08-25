@@ -1,6 +1,7 @@
 # Quick Links
 
 [Dev docs pages](https://github.com/CliffCrerar/dev-docz/tree/master/src/pages)
+[OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
 
 # Web resource inventory
 
