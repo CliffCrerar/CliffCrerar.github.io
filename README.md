@@ -7,9 +7,9 @@
 
 <div>
   <code>this is a test</code>
-  <iframe src="https://cliff-crerar.tech" name="my portal" seamless="seamless">
+  <iframe src="https://cliff-crerar.tech" name="my portal" seamless="seamless"></iframe>
     
-  <iframe width="1000px" hieght="auto" src="https://www.w3schools.com/jsref/dom_obj_event.asp">
+  <iframe width="1000px" hieght="auto" src="https://www.w3schools.com/jsref/dom_obj_event.asp"></iframe>
   
   
 <div>
