@@ -12,16 +12,16 @@
 
 |Site|Link|
 |---|--|
-Facebook
-LinkedId
-Twitter
-Instagram
-Stack Overflow
-Github
-Dribble
-Behance
-Mastodon
-Hashnode
+|Facebook||
+|LinkedId||
+|Twitter||
+|Instagram||
+|Stack Overflow||
+|Github||
+|Dribble||
+|Behance||
+|Mastodon||
+|Hashnode||
 
 #### Private Profiles
 
