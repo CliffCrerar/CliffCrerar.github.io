@@ -10,6 +10,10 @@
 1. [Github code vault](https://cliffcrerar.github.io/gitfolio/) - see my git portfolio
 2. [My set of dev docs](http://http://devdocz.gq/) - set of documents for saved resources and drafted items for future reference.
 3. [Peronal Portal](cliff-crerar.tech) - a Public link for anyone who wants to find out about my professional career.
+4. [Blog privacy policy]()
+5. [Portal privacy]()
+5. [Portal T&C]()
+5. [Learn SQL]()
 
 ### Proprietary online subscriptions
 
@@ -27,6 +31,9 @@
 |Behance||
 |Mastodon||
 |Hashnode||
+|Medium||
+|Quora||
+|Google||
 
 #### Private Profiles
 
