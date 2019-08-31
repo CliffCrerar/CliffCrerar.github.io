@@ -3,6 +3,7 @@
 * [Dev docs pages](https://github.com/CliffCrerar/dev-docz/tree/master/src/pages) (deprecated)
 * [Dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
 * [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
+* [Github Primer](https://primer.style:)
 
 # Web resource inventory
 
