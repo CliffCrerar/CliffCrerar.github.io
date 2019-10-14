@@ -25,19 +25,23 @@
 
 |Site|Link|
 |---|--|
-|Facebook||
-|LinkedId||
-|Twitter||
-|Instagram||
-|Stack Overflow||
-|Github||
-|Dribble||
-|Behance||
-|Mastodon||
-|Hashnode||
-|Medium||
-|Quora||
+|Facebook|https://www.facebook.com/cliff.crerar|
+|LinkedId|https://www.linkedin.com/in/cliff-crerar/|
+|Twitter|https://twitter.com/Cliffenator|
+|Instagram|https://www.instagram.com/cliffenator/|
+|Stack Overflow|https://stackoverflow.com/users/5599914/cliff-crerar?tab=profile|
+|Github|https://github.com/CliffCrerar|
+|Dribble|https://dribbble.com/cliffenator#|
+|Behance|https://www.behance.net/cliff-crerar|
+|Mastodon|https://mastodon.social/@cliffcrerar|
+|Hashnode|https://hashnode.com/@Cliff|
+|Medium|Closed account|
+|Quora|https://www.quora.com/profile/Cliff-Crerar|
 |Google||
+|youyube|https://www.youtube.com/user/MrBeamerguy|
+|Telegram|https://t.me/cliffcrerar|
+|Gitfolio|https://cliffcrerar.github.io/gitfolio/|
+|StackShare|
 
 #### Private Profiles
 
