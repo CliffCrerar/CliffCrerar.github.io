@@ -6,6 +6,7 @@
 * [Github Primer](https://primer.style:)
 * [Search domain](https://www.namesilo.com/domain_results.php)
 * [Mocky Api](https://www.mocky.io/)
+* [Apple Script](https://www.macosxautomation.com/applescript/firsttutorial/index.html)
 
 # Web resource inventory
 
@@ -47,7 +48,10 @@
 
 |Site|Link|
 |-----|----|
-| | |
+| Portal| www.cliff-crerar.tech |
+| Resume | resume.cliff-crerar.tehc |
+| Privacy | https://policies.cliff-crerar.tech/portal-privacy |
+| Terms of Use | https://policies.cliff-crerar.tech/portal-terms |
 
 ## Owned NPM
 
