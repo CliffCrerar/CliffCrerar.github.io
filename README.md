@@ -60,6 +60,6 @@
 
 ## Projects 
 
-[Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)
+- [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)
 
-
+- [learn transact sql and database fundamentals](learntransactsql.now.sh)
