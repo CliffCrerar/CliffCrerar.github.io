@@ -1,5 +1,7 @@
 > go wiki: [dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
 
+> In the process of migrating to this [vuepress site](my-docspress-git-vue-press-conversion.c1i44.now.sh)
+
 # Quick Links
 
 * [Dev docs pages](https://github.com/CliffCrerar/dev-docz/tree/master/src/pages) (deprecated)
