@@ -46,7 +46,7 @@
 |Gitfolio|https://cliffcrerar.github.io/gitfolio/|
 |StackShare|https://stackshare.io/CliffCrerar|
 
-#### Private Profiles
+#### Personal Resources
 
 |Site|Link|
 |-----|----|
@@ -56,7 +56,7 @@
 | Terms of Use | https://policies.cliff-crerar.tech/portal-terms |
 | Open Graph Image Creator |  |
 
-## Owned NPM
+## NPM Publications
 
 ## Projects 
 
