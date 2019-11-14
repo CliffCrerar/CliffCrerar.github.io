@@ -16,7 +16,7 @@
 
 1. [Github code vault](https://cliffcrerar.github.io/gitfolio/) - see my git portfolio
 2. [My set of dev docs](http://http://devdocz.gq/) - set of documents for saved resources and drafted items for future reference.
-3. [Peronal Portal](cliff-crerar.tech) - a Public link for anyone who wants to find out about my professional career.
+3. [Personal Portal](cliff-crerar.tech) - a Public link for anyone who wants to find out about my professional career.
 4. [Blog privacy policy]()
 5. [Portal privacy]()
 5. [Portal T&C]()
@@ -40,11 +40,11 @@
 |Hashnode|https://hashnode.com/@Cliff|
 |Medium|Closed account|
 |Quora|https://www.quora.com/profile/Cliff-Crerar|
-|Google||
+|Google|https://www.google.com/search?sxsrf=ACYBGNRssPKQus3D9lC8poTEg20unGadng%3A1573726423777&source=hp&ei=1yjNXavULM3bwQLK_bDADg&q=cliff+crerar&oq=cliff+crerar&gs_l=psy-ab.3..35i39l2.834.3064..3317...0.0..0.234.2378.2-11......0....1..gws-wiz.......0i67j0i131j0i131i67j0i131i20i263j0i20i263j0.tf_MeH5vD7I&ved=0ahUKEwjrm9fju-nlAhXNbVAKHco-DOgQ4dUDCAY&uact=5|
 |youyube|https://www.youtube.com/user/MrBeamerguy|
 |Telegram|https://t.me/cliffcrerar|
 |Gitfolio|https://cliffcrerar.github.io/gitfolio/|
-|StackShare|
+|StackShare|https://stackshare.io/CliffCrerar|
 
 #### Private Profiles
 
