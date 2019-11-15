@@ -1,5 +1,6 @@
 > ### ABOUT DEV DOCS
 > go wiki: [dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
+>
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
 # Quick Links
@@ -56,13 +57,15 @@
 | Resume | resume.cliff-crerar.tech |
 | Privacy | https://policies.cliff-crerar.tech/portal-privacy |
 | Terms of Use | https://policies.cliff-crerar.tech/portal-terms |
-| Open Graph Image Creator |  |
 
 ## NPM Publications
 
+!TODO
+
 ## Projects 
 
-
-- [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)
-
-- [learn transact sql and database fundamentals](learntransactsql.now.sh)
+| Project Name | Project Status |
+|--------------|----------------|
+| - [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)| released |
+| - [learn transact sql and database fundamentals](learntransactsql.now.sh) | released |
+| - [next-app-starter-preconfigured])https://github.com/CliffCrerar/next-app-pre-configured-starter) | failed/archived |
