@@ -1,6 +1,8 @@
 > go wiki: [dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
 
-> In the process of migrating to this [vuepress site](my-docspress-git-vue-press-conversion.c1i44.now.sh)
+> In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
+
+> go this git: [CliffCrerar.github.io](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
 # Quick Links
 
