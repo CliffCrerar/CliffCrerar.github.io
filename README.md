@@ -68,4 +68,4 @@
 |--------------|----------------|
 | - [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)| released |
 | - [learn transact sql and database fundamentals](learntransactsql.now.sh) | released |
-| - [next-app-starter-preconfigured])https://github.com/CliffCrerar/next-app-pre-configured-starter) | failed/archived |
+| - [next-app-starter-preconfigured](https://github.com/CliffCrerar/next-app-pre-configured-starter) | failed/archived |
