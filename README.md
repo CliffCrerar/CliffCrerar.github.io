@@ -1,8 +1,6 @@
+> ### ABOUT DEV DOCS
 > go wiki: [dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
-
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
-
-> go this git: [CliffCrerar.github.io](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
 # Quick Links
 
@@ -44,7 +42,7 @@
 |Hashnode|https://hashnode.com/@Cliff|
 |Medium|Closed account|
 |Quora|https://www.quora.com/profile/Cliff-Crerar|
-|Google|https://www.google.com/search?sxsrf=ACYBGNRssPKQus3D9lC8poTEg20unGadng%3A1573726423777&source=hp&ei=1yjNXavULM3bwQLK_bDADg&q=cliff+crerar&oq=cliff+crerar&gs_l=psy-ab.3..35i39l2.834.3064..3317...0.0..0.234.2378.2-11......0....1..gws-wiz.......0i67j0i131j0i131i67j0i131i20i263j0i20i263j0.tf_MeH5vD7I&ved=0ahUKEwjrm9fju-nlAhXNbVAKHco-DOgQ4dUDCAY&uact=5|
+|Google|[google cliff crerar](https://www.google.com/search?sxsrf=ACYBGNRssPKQus3D9lC8poTEg20unGadng%3A1573726423777&source=hp&ei=1yjNXavULM3bwQLK_bDADg&q=cliff+crerar&oq=cliff+crerar&gs_l=psy-ab.3..35i39l2.834.3064..3317...0.0..0.234.2378.2-11......0....1..gws-wiz.......0i67j0i131j0i131i67j0i131i20i263j0i20i263j0.tf_MeH5vD7I&ved=0ahUKEwjrm9fju-nlAhXNbVAKHco-DOgQ4dUDCAY&uact=5)|
 |youyube|https://www.youtube.com/user/MrBeamerguy|
 |Telegram|https://t.me/cliffcrerar|
 |Gitfolio|https://cliffcrerar.github.io/gitfolio/|
@@ -63,6 +61,7 @@
 ## NPM Publications
 
 ## Projects 
+
 
 - [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)
 
