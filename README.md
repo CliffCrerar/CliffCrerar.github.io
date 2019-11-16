@@ -15,18 +15,6 @@
 
 # Web resource inventory
 
-### Custom resource Index
-
-1. [Github code vault](https://cliffcrerar.github.io/gitfolio/) - see my git portfolio
-2. [My set of dev docs](http://http://devdocz.gq/) - set of documents for saved resources and drafted items for future reference.
-3. [Personal Portal](cliff-crerar.tech) - a Public link for anyone who wants to find out about my professional career.
-4. [Blog privacy policy]()
-5. [Portal privacy]()
-5. [Portal T&C]()
-5. [Learn SQL]()
-
-### Proprietary online subscriptions
-
 #### Public profiles
 
 |Site|Link|
@@ -54,6 +42,7 @@
 |Site|Link|
 |-----|----|
 | Portal| www.cliff-crerar.tech |
+|GitFolio |https://cliffcrerar.github.io/gitfolio/|
 | Resume | resume.cliff-crerar.tech |
 | Privacy | https://policies.cliff-crerar.tech/portal-privacy |
 | Terms of Use | https://policies.cliff-crerar.tech/portal-terms |
@@ -66,6 +55,7 @@
 
 | Project Name | Project Status |
 |--------------|----------------|
-| - [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)| released |
-| - [learn transact sql and database fundamentals](learntransactsql.now.sh) | released |
+| - [Demo phonebook application](https://github.com/CliffCrerar/phone-book-demo/projects/1?fullscreen=true)| released/ongoing |
+| - [learn transact sql and database fundamentals](learntransactsql.now.sh) | released/ongoing |
 | - [next-app-starter-preconfigured](https://github.com/CliffCrerar/next-app-pre-configured-starter) | failed/archived |
+| - [Dev Docs](https://mydevdocs.now.sh) | migrating to vuepress |
