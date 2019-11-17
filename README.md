@@ -3,13 +3,15 @@
 >
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
+# Go github
 
+* [Repositories](https://github.com/CliffCrerar?tab=repositories)
+* [Profile](https://github.com/CliffCrerar)
 
 # Quick Links
 
 * [Dev docs pages](https://github.com/CliffCrerar/dev-docz/tree/master/src/pages) (deprecated)
 * [Dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
-* [GH Repo Profile List](https://github.com/CliffCrerar?tab=repositories)
 * [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
 * [Github Primer](https://primer.style:)
 * [Search domain](https://www.namesilo.com/domain_results.php)
