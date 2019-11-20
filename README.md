@@ -17,6 +17,7 @@
 * [Search domain](https://www.namesilo.com/domain_results.php)
 * [Mocky Api](https://www.mocky.io/)
 * [Apple Script](https://www.macosxautomation.com/applescript/firsttutorial/index.html)
+* [CSS Libraries 2019
 
 # Web resource inventory
 
