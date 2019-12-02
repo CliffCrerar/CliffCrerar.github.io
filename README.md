@@ -65,3 +65,10 @@
 | - [learn transact sql and database fundamentals](learntransactsql.now.sh) | released/ongoing |
 | - [next-app-starter-preconfigured](https://github.com/CliffCrerar/next-app-pre-configured-starter) | failed/archived |
 | - [Dev Docs](https://mydevdocs.now.sh) | migrating to vuepress |
+
+## Learn Azure functions
+
+Other
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference#folder-structure
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings
