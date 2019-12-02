@@ -74,3 +74,4 @@ Other
 
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference#folder-structure
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices
