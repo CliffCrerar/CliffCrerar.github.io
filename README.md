@@ -68,6 +68,8 @@
 
 ## Learn Azure functions
 
+https://docs.microsoft.com/en-us/learn/browse/?products=azure-functions
+
 Other
 
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference#folder-structure
