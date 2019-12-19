@@ -19,6 +19,9 @@
 * [Apple Script](https://www.macosxautomation.com/applescript/firsttutorial/index.html)
 * [CSS Libraries 2019](https://cliffcrerar.github.io/list-of-css-libs-2019/)
 
+# Articles
+ - [Post angular cloud app errors to slack](https://medium.com/dailyjs/how-to-send-errors-into-slack-dc552e30506f)
+
 # Web resource inventory
 
 #### Public profiles
