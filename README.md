@@ -19,6 +19,11 @@
 * [Apple Script](https://www.macosxautomation.com/applescript/firsttutorial/index.html)
 * [CSS Libraries 2019](https://cliffcrerar.github.io/list-of-css-libs-2019/)
 * [Google Code Labs](https://codelabs.developers.google.com/)
+* [Bideo.js](https://rishabhp.github.io/bideo.js/)
+* [Aos](https://michalsnik.github.io/aos/)
+* [Anime Animation Lib](https://animejs.com/documentation/)
+* [Workbox](https://developers.google.com/web/tools/workbox/modules/workbox-build#full_generatesw_config)
+a
 
 # Articles
  - [Post angular cloud app errors to slack](https://medium.com/dailyjs/how-to-send-errors-into-slack-dc552e30506f)
