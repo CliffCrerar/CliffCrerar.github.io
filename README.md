@@ -237,6 +237,49 @@ var err = new createError.NotFound()
 |510        |NotExtended                  |
 |511        |NetworkAuthenticationRequired|
 
+PouchDB
+
+[authentication](https://github.com/pouchdb-community/pouchdb-authentication)
+
+https://github.com/jo/pouch-box
+
+https://github.com/dahjelle/pouch-datalog
+
+https://github.com/pouchdb-community/pouchdb-dump-cli
+
+https://github.com/pouchdb-community/pouchdb-load
+
+https://github.com/redgeoff/delta-pouch
+
+https://github.com/pouchdb-community/pouchdb-full-sync
+
+https://github.com/jo/pouch-resolve-conflicts
+
+https://github.com/pouchdb-community/relational-pouch
+
+https://github.com/pouchdb/upsert
+
+https://github.com/pouchdb-community/worker-pouch
+
+https://github.com/jrhicks/ngPouch
+
+https://github.com/nolanlawson/blob-util
+
+http://cdaringe.github.io/pouchy/
+
+- TESTING
+https://gist.github.com/nolanlawson/816f138a51b86785d3e6
+
+http://docs.couchdb.org/en/latest/api/database/security.html
+
+http://docs.couchdb.org/en/latest/intro/overview.html#security-and-validation
+
+http://docs.couchdb.org/en/latest/intro/security.html
+
+https://github.com/pouchdb/pouchdb-search
+
+https://github.com/pouchdb/pouchdb-fauxton
+
 ## License
 
 [MIT](LICENSE)
