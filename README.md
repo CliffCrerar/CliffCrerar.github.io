@@ -237,6 +237,11 @@ var err = new createError.NotFound()
 |510        |NotExtended                  |
 |511        |NetworkAuthenticationRequired|
 
+## Azure JS SDK
+
+https://docs.microsoft.com/en-us/azure/javascript/
+
+
 PouchDB
 
 [authentication](https://github.com/pouchdb-community/pouchdb-authentication)
