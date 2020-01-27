@@ -23,7 +23,11 @@
 * [Aos](https://michalsnik.github.io/aos/)
 * [Anime Animation Lib](https://animejs.com/documentation/)
 * [Workbox](https://developers.google.com/web/tools/workbox/modules/workbox-build#full_generatesw_config)
-a
+
+
+# [About ng-tempalte, ng-content, ng-container](https://www.freecodecamp.org/news/everything-you-need-to-know-about-ng-temaplate-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691/)
+
+
 
 # Articles
  - [Post angular cloud app errors to slack](https://medium.com/dailyjs/how-to-send-errors-into-slack-dc552e30506f)
