@@ -8,6 +8,7 @@
 * [Repositories](https://github.com/CliffCrerar?tab=repositories)
 * [Profile](https://github.com/CliffCrerar)
 
+
 # Quick Links
 
 * [Dev docs pages](https://github.com/CliffCrerar/dev-docz/tree/master/src/pages) (deprecated)
@@ -26,6 +27,8 @@
 
 
 # [About ng-tempalte, ng-content, ng-container](https://www.freecodecamp.org/news/everything-you-need-to-know-about-ng-temaplate-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691/)
+
+# [Project Rome Azure ](https://docs.microsoft.com/en-us/graph/cross-device-app-configuration)
 
 
 
