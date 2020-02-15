@@ -25,6 +25,7 @@
 * [Anime Animation Lib](https://animejs.com/documentation/)
 * [Workbox](https://developers.google.com/web/tools/workbox/modules/workbox-build#full_generatesw_config)
 * [Content Security](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
+* [12 Factor Application](https://12factor.net)
 
 
 # [About ng-tempalte, ng-content, ng-container](https://www.freecodecamp.org/news/everything-you-need-to-know-about-ng-temaplate-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691/)
