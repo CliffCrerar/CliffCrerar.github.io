@@ -3,6 +3,17 @@
 >
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
+#### FIGHT CORS
+
+```js
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
+```
+
+
 # Go github
 
 * [Repositories](https://github.com/CliffCrerar?tab=repositories)
