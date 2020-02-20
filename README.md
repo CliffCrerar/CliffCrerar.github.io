@@ -3,7 +3,13 @@
 >
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
-#### FIGHT CORS
+#### Ultimate HTML Page Boiler
+
+`npm install html5-boilerplate`
+
+[Modernizer](https://modernizr.com/)
+
+#### CORS FIGHTER CODE
 
 ```js
 app.use(function(req, res, next) {
