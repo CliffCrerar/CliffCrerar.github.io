@@ -5,6 +5,8 @@
 
 #### Ultimate HTML Page Boiler
 
+https://github.com/h5bp/html5-boilerplate/blob/master/README.md
+
 `npm install html5-boilerplate`
 
 [Modernizer](https://modernizr.com/)
