@@ -48,6 +48,7 @@ app.use(function(req, res, next) {
 * [Content Security](https://www.html5rocks.com/en/tutorials/security/content-security-policy/)
 * [12 Factor Application](https://12factor.net)
 * [Open SSL Essentials](https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs)
+* [Chmod Calculator](https://chmod-calculator.com/)
 
 
 # [About ng-tempalte, ng-content, ng-container](https://www.freecodecamp.org/news/everything-you-need-to-know-about-ng-temaplate-ng-content-ng-container-and-ngtemplateoutlet-4b7b51223691/)
