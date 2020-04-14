@@ -3,6 +3,8 @@
 >
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
+> [MIT](https://www.mit.edu/~amini/LICENSE.md) 
+
 #### Ultimate HTML Page Boiler
 
 https://github.com/h5bp/html5-boilerplate/blob/master/README.md
