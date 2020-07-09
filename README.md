@@ -5,6 +5,12 @@
 
 > [MIT](https://www.mit.edu/~amini/LICENSE.md) 
 
+## Angular Loggin with Kibana and Elestic Search
+
+* [Ngx Logger and Kibana](https://mikrethor.github.io/blog/2018/01/17/Ngx-Logger-to-Kibana.html)
+* [Superpower Angular Logging with Elasticsearch, Logstash and Kibana — Part 1](https://blog.donkeycode.com/superpower-angular-logging-with-elasticsearch-logstash-and-kibana-part-1-cfb612da4b87)
+* [Superpower Angular Logging with Elasticsearch, Logstash and Kibana — Part 2](https://blog.donkeycode.com/superpower-angular-logging-with-elasticsearch-logstash-and-kibana-part-2-cba11e6524b8)
+
 #### Ultimate HTML Page Boiler
 
 https://github.com/h5bp/html5-boilerplate/blob/master/README.md
@@ -15,7 +21,7 @@ https://github.com/h5bp/html5-boilerplate/blob/master/README.md
 
 [Test Website](https://www.webpagetest.org/)
 
-#### CORS FIGHTER CODE
+## CORS FIGHTER CODE
 
 ```js
 app.use(function(req, res, next) {
