@@ -344,3 +344,7 @@ https://github.com/pouchdb/pouchdb-fauxton
 [npm-version-image]: https://badgen.net/npm/v/http-errors
 [travis-image]: https://badgen.net/travis/jshttp/http-errors/master
 [travis-url]: https://travis-ci.org/jshttp/http-errors
+
+# Git Hub Aliasing
+
+`git config --global alias.update '!git pull && git submodule update --init --recursive'`
