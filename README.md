@@ -24,6 +24,10 @@ https://github.com/h5bp/html5-boilerplate/blob/master/README.md
 
 [Test Website](https://www.webpagetest.org/)
 
+## Add precommit linting 
+
+https://gist.github.com/CliffCrerar/1541e9ddc266361cbe3fa14ec76ea80c
+
 ## CORS FIGHTER CODE
 
 ```js
