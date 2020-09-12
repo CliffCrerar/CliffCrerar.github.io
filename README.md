@@ -1,9 +1,15 @@
+[Edit this](https://github.com/CliffCrerar/CliffCrerar.github.io/edit/master/README.md)
+
 > ### ABOUT DEV DOCS
 > go wiki: [dev docs wiki](https://github.com/CliffCrerar/CliffCrerar.github.io/wiki)
 >
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
 > [MIT](https://www.mit.edu/~amini/LICENSE.md) 
+
+## Angular Polyfill strategy
+
+https://izifortune.com/angular-polyfill-strategies/
 
 ## Angular Loggin with Kibana and Elestic Search
 
