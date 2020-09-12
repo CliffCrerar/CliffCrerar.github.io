@@ -7,6 +7,8 @@
 
 > [MIT](https://www.mit.edu/~amini/LICENSE.md) 
 
+## [Google Logo List](https://www.google.com/permissions/trademark/logos-list/)
+
 ## Angular Polyfill strategy
 
 https://izifortune.com/angular-polyfill-strategies/
