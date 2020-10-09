@@ -362,3 +362,35 @@ https://github.com/pouchdb/pouchdb-fauxton
 # Git Hub Aliasing
 
 `git config --global alias.update '!git pull && git submodule update --init --recursive'`
+
+# ASP.NET Training
+
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started
+https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=MSDN-samples
+https://dotnet.microsoft.com/apps/aspnet/apis
+https://dotnet.microsoft.com/platform/community/standup
+https://dotnet.microsoft.com/apps/aspnet/mvc
+
+# About TDD
+
+https://en.wikipedia.org/wiki/Test-driven_development
+
+# SOLID
+
+https://en.wikipedia.org/wiki/SOLID
+
+# GRASP
+
+https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
+
+# KISS
+
+https://en.wikipedia.org/wiki/KISS_principle
+
+# YAGNI
+
+https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+
+# PACKAGE PRINCIPLE
+
+https://en.wikipedia.org/wiki/Package_principles
