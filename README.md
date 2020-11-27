@@ -394,3 +394,27 @@ https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 # PACKAGE PRINCIPLE
 
 https://en.wikipedia.org/wiki/Package_principles
+
+# Unpacking EF Core
+
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2019/november/data-points-backing-field-and-owned-entity-changes-in-ef-core-3-0
+
+# Unfolding Box
+
+https://rupl.github.io/unfold/
+
+# Single Spa
+
+https://www.freecodecamp.org/news/developing-and-deploying-micro-frontends-with-single-spa/
+
+# Buno Simon
+
+https://bruno-simon.com/
+
+# Serverless Tutorials
+
+https://www.serverless.com/blog/category/guides-and-tutorials
+
+# Learn full stack serverless
+
+https://serverless-stack.com/ 
