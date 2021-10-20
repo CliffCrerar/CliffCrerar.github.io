@@ -418,3 +418,13 @@ https://www.serverless.com/blog/category/guides-and-tutorials
 # Learn full stack serverless
 
 https://serverless-stack.com/ 
+
+# Neomorphism
+
+https://neumorphism.io/#ffffff
+
+# CSS Shodow
+
+https://shadows.brumm.af/
+https://larsenwork.com/easing-gradients/
+https://getcssscan.com/css-box-shadow-examples
