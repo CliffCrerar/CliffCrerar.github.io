@@ -407,7 +407,7 @@ https://rupl.github.io/unfold/
 
 https://www.freecodecamp.org/news/developing-and-deploying-micro-frontends-with-single-spa/
 
-# Buno Simon
+# Bruno Simon
 
 https://bruno-simon.com/
 
