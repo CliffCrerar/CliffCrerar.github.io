@@ -423,8 +423,12 @@ https://serverless-stack.com/
 
 https://neumorphism.io/#ffffff
 
-# CSS Shodow
+# CSS Shadow
 
 https://shadows.brumm.af/
 https://larsenwork.com/easing-gradients/
 https://getcssscan.com/css-box-shadow-examples
+
+# React Strap
+
+https://reactstrap.github.io/?path=/story/home-installation--page
