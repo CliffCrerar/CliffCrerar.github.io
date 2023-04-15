@@ -5,6 +5,10 @@
 >
 > In the process of migrating to this [vuepress site](https://my-docspress-git-vue-press-conversion.c1i44.now.sh/)
 
+## GIST Sql Server delete all tables
+
+<script src="https://gist.github.com/CliffCrerar/86acea120a986bc82e6cb4d819ae064f.js"></script>
+
 > [MIT](https://www.mit.edu/~amini/LICENSE.md) 
 
 ## [Google Logo List](https://www.google.com/permissions/trademark/logos-list/)
